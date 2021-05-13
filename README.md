@@ -6,7 +6,8 @@ I'm Yatish.
 - 📫 How to reach me:
      - [LinkedIn](https://in.linkedin.com/in/baba230896)
 
-![Visitors](https://profile-counter.glitch.me/baba230896/count.svg)
+
+![](https://visitor-badge.glitch.me/badge?page_id=baba230896)
 
 <!--
 **baba230896/baba230896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
